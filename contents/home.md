@@ -9,12 +9,9 @@ He is currently pursuing a Bachelor's Degree in Software Engineering at the Scho
 
 #### Education
 B.E., Bachelor of Software Engineering, Hubei University, 2022—2026 (expected).
-<!-- B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022. -->
-
 
 #### Research Interests
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
 
 #### Hobbies and interests
 Play Badminton, Sing, Play the Piano, Play Video Games.
